@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @BStofftTX
-- 👀 I’m interested in applications of machine learning an deep learning to innovations particularly in the healthcare field.
-- 🌱 My wife and I have started an Artificial Intelligence company called MacroStofft in Texas. She is an engineer with 20+ years experience in the healthcare industry, mostly with implantable medical devices and I have 20+ years in technology field. We are looking to automate processes through accelerated workflow, custom apps and AI Agents.
-- 💞️ We're looking to collaborate the use of fundus imagry of the eye for development of a software application to detect and classify diabetic retinopathy and to look for early indicators of cardiovascular diseases.
-- 📫 How to reach me brucestofft@gmail.com or www.MacroStofft.com
-  
-<!---
-BStofftTX/BStofftTX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# William Bruce Stofft
+
+**AI / ML Technical Leader | Applied AI Developer | MacroStofft LLC**
+
+I am a technical leader and hands-on AI practitioner focused on translating research and emerging technologies into practical software systems. My background combines an **M.S. in Computer Science with a specialization in Artificial Intelligence**, an **MBA**, and technology experience with **Apple, Motorola, and Dell**.
+
+Today I lead technical development through **MacroStofft LLC**, with current work spanning healthcare AI, quantitative analytics, AI-agent orchestration, and software prototyping.
+
+## Selected Work
+
+**TEHI — The Eyes Have It**
+
+Medical-imaging AI research and product development originating from my graduate research applying CNNs, TensorFlow/Keras, VGG19, and Inception V3 to fundus imagery for diabetic-retinopathy classification. Current development extends that research into a smartphone/web-oriented screening MVP with defined inference architecture and automated tests.
+
+**Quant-AI Research Platform**
+
+An active Python quantitative-research project exploring market analysis, benchmark comparison, risk-adjusted performance, statistical methods, and ML-oriented financial research using securities from my own investment portfolio as practical test cases.
+
+**PaulReeve / Agent Orchestration**
+
+A persistent OpenClaw-based AI-agent environment running on a dedicated Mac mini for research, project analysis, software-development support, documentation, and multi-step workflow orchestration.
+
+## Technical Focus
+
+`Python` · `TensorFlow` · `Machine Learning` · `Deep Learning` · `SQL/PostgreSQL` · `JavaScript/Node.js` · `Git/GitHub` · `AI Agent Orchestration` · `Linux` · `macOS`
+
+**Current focus:** leading technical projects and teams while remaining hands-on with AI/ML engineering, agent systems, quantitative research, and applied software development.
+
+## Projects
+
+**[TEHI-AI-DR-project](https://github.com/BStofftTX/TEHI-AI-DR-project)** · **[quant-ai-research-platform](https://github.com/BStofftTX/quant-ai-research-platform)** · **[MacroStofft](https://github.com/BStofftTX/MacroStofft)**
