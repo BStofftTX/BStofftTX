@@ -1,10 +1,10 @@
 # William Bruce Stofft
 
-**AI/ML & Agentic Systems | Emerging Superintelligence Solutions | Python | MacroStofft LLC**
+**AI/ML Technical Program & Product Laedership | Agentic Systems | Python | MacroStofft LLC**
 
 I am a technical leader and hands-on AI practitioner focused on translating research and emerging technologies into practical software systems. My background combines an **M.S. in Computer Science with a specialization in Artificial Intelligence**, an **MBA**, and technology experience with **Apple, Motorola, and Dell**.
 
-Today I lead technical development through **MacroStofft LLC**, with current work spanning healthcare AI, quantitative analytics, AI-agent orchestration, emerging superintelligence systems, and software prototyping.
+Today I lead technical development through **MacroStofft LLC**, with current work spanning healthcare AI, quantitative analytics, AI-agent orchestration, applied AI/ML systems and software prototyping.
 
 ## Selected Work
 
