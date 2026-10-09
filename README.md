@@ -1,6 +1,6 @@
 # William Bruce Stofft
 
-**AI/ML Technical Program & Product Laedership | Agentic Systems | Python | MacroStofft LLC**
+**AI/ML Technical Program & Product Leadership | Agentic Systems | Python | MacroStofft LLC**
 
 I am a technical leader and hands-on AI practitioner focused on translating research and emerging technologies into practical software systems. My background combines an **M.S. in Computer Science with a specialization in Artificial Intelligence**, an **MBA**, and technology experience with **Apple, Motorola, and Dell**.
 
