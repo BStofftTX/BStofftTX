@@ -28,4 +28,6 @@ A persistent OpenClaw-based AI-agent environment running on a dedicated Mac mini
 
 ## Projects
 
+**[Model to Production](https://github.com/BStofftTX/model-to-production)** — Reproducible synthetic-data ML pipeline, chronological evaluation, FastAPI inference, Docker, request tracing, and CI. Production-oriented reference implementation; no live cloud deployment claimed.
+
 **[TEHI-AI-DR-project](https://github.com/BStofftTX/TEHI-AI-DR-project)** · **[quant-ai-research-platform](https://github.com/BStofftTX/quant-ai-research-platform)** · **[MacroStofft](https://github.com/BStofftTX/MacroStofft)**
